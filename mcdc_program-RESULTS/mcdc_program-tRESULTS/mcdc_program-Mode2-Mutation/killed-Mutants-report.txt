@@ -1,0 +1,16 @@
+../CBMC_Multiple_Mutants/mutant_file_14.c killed due to ../mcdc_program-TC/BT3.txt
+../CBMC_Multiple_Mutants/mutant_file_15.c killed due to ../mcdc_program-TC/BT1.txt
+../CBMC_Multiple_Mutants/mutant_file_16.c killed due to ../mcdc_program-TC/BT3.txt
+../CBMC_Multiple_Mutants/mutant_file_18.c killed due to ../mcdc_program-TC/BT1.txt
+../CBMC_Multiple_Mutants/mutant_file_19.c killed due to ../mcdc_program-TC/BT1.txt
+../CBMC_Multiple_Mutants/mutant_file_1.c killed due to ../mcdc_program-TC/BT1.txt
+../CBMC_Multiple_Mutants/mutant_file_24.c killed due to ../mcdc_program-TC/BT1.txt
+../CBMC_Multiple_Mutants/mutant_file_25.c killed due to ../mcdc_program-TC/BT1.txt
+../CBMC_Multiple_Mutants/mutant_file_26.c killed due to ../mcdc_program-TC/BT1.txt
+../CBMC_Multiple_Mutants/mutant_file_27.c killed due to ../mcdc_program-TC/BT1.txt
+../CBMC_Multiple_Mutants/mutant_file_3.c killed due to ../mcdc_program-TC/BT1.txt
+../CBMC_Multiple_Mutants/mutant_file_4.c killed due to ../mcdc_program-TC/BT1.txt
+../CBMC_Multiple_Mutants/mutant_file_5.c killed due to ../mcdc_program-TC/BT2.txt
+../CBMC_Multiple_Mutants/mutant_file_6.c killed due to ../mcdc_program-TC/BT2.txt
+../CBMC_Multiple_Mutants/mutant_file_7.c killed due to ../mcdc_program-TC/BT1.txt
+../CBMC_Multiple_Mutants/mutant_file_8.c killed due to ../mcdc_program-TC/BT1.txt

@@ -1,0 +1,5 @@
+input=0
+input=1
+input=5
+input=21430283
+input=12255244

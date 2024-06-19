@@ -1,0 +1,12 @@
+Function 'main'
+Lines executed:100.00% of 7
+No branches
+No calls
+
+File 'mcdc_program.c'
+Lines executed:100.00% of 7
+Branches executed:100.00% of 6
+Taken at least once:83.33% of 6
+Calls executed:100.00% of 4
+Creating 'mcdc_program.c.gcov'
+

@@ -1,0 +1,45 @@
+        -:    0:Source:mcdc_program.c
+        -:    0:Graph:mcdc_program.gcno
+        -:    0:Data:mcdc_program.gcda
+        -:    0:Runs:5
+        -:    0:Programs:1
+        -:    1:#include <stdio.h>
+        -:    2:#include <stdbool.h>
+        -:    3:
+function main called 5 returned 100% blocks executed 100%
+        5:    4:int main() {
+        5:    4-block  0
+        -:    5:    int input; 
+        -:    6:
+        5:    7:    printf("Enter an input to check if it meets the criteria: ");
+        5:    7-block  0
+call    0 returned 5
+        5:    8:    scanf("%d", &input);
+call    0 returned 5
+        -:    9:
+        -:   10:    // Single, complex conditional statement
+        5:   11:    if ((input % 7 == 0) && (input > 100) || (input / 5 != 0)) {
+branch  0 taken 2 (fallthrough)
+branch  1 taken 3
+        2:   11-block  0
+branch  2 taken 1 (fallthrough)
+branch  3 taken 1
+        4:   11-block  1
+branch  4 taken 2 (fallthrough)
+branch  5 taken 2
+        3:   12:        printf("%d meets the criteria.\n", input);
+        3:   12-block  0
+call    0 returned 3
+unconditional  1 taken 3
+        -:   13:    } else {
+        2:   14:        printf("%d does not meet the criteria.\n", input);
+        2:   14-block  0
+call    0 returned 2
+unconditional  1 taken 2
+        -:   15:    }
+        -:   16:
+        5:   17:    return 0;
+        5:   17-block  0
+unconditional  0 taken 5
+        -:   18:}
+        -:   19:

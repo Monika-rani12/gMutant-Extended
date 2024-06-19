@@ -1,0 +1,11 @@
+../AFL_Multiple_Mutants/mutant_file_14.c killed due to ../cleaned-TCs/Ct1.txt
+../AFL_Multiple_Mutants/mutant_file_15.c killed due to ../cleaned-TCs/Ct1.txt
+../AFL_Multiple_Mutants/mutant_file_16.c killed due to ../cleaned-TCs/Ct1.txt
+../AFL_Multiple_Mutants/mutant_file_18.c killed due to ../cleaned-TCs/Ct1.txt
+../AFL_Multiple_Mutants/mutant_file_19.c killed due to ../cleaned-TCs/Ct2.txt
+../AFL_Multiple_Mutants/mutant_file_1.c killed due to ../cleaned-TCs/Ct1.txt
+../AFL_Multiple_Mutants/mutant_file_4.c killed due to ../cleaned-TCs/Ct1.txt
+../AFL_Multiple_Mutants/mutant_file_5.c killed due to ../cleaned-TCs/Ct1.txt
+../AFL_Multiple_Mutants/mutant_file_6.c killed due to ../cleaned-TCs/Ct2.txt
+../AFL_Multiple_Mutants/mutant_file_7.c killed due to ../cleaned-TCs/Ct2.txt
+../AFL_Multiple_Mutants/mutant_file_8.c killed due to ../cleaned-TCs/Ct2.txt
