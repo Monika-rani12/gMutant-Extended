@@ -22,7 +22,7 @@ _CBMC Test Case Generation:_ The following CBMC’s command generates the test c
 
 **Analyzer:** This component takes the generated gCov report and the Reachable Mutants as inputs and generates the Mutation Score (%).
 
-
+#
 
 Below is the command to execute the sample (mcdc_Program.c) program.
 
